@@ -230,6 +230,7 @@ color: #404bbf;
   display: flex;
   align-items: center;
   gap: 40px;
+  margin-bottom: 48px;
 }
 
 .contacts-item {
